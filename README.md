@@ -22,7 +22,7 @@ print(result['msg'])
 
 ## 发送名片
 ```python
-result = sendCardMsg("wxid_thisisfortest", "wxid_iopzb6obm66p22", "若惜")
+result = sendCardMsg("wxid_thisisfortest", "wxid_thisisfortest", "HelloWorld")
 print(result['msg'])
 ```
 
